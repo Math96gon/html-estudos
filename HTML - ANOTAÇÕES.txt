@@ -1,0 +1,24 @@
+- MARGIM: auto ( centraliza )
+- Padding : pensa no relógio 
+- border: ao colocar já o valor é geral : igula um relógio
+- display: muda a caractirisca normal do elemento, ocula todo o corpo do site
+- text-decoration: none; tira o sublinhado do texto
+- criar um BOX-SHADOWN rápido, utiliza inspecionar para criar um box-shadown mais rápido e cópia as configuaração sem decorar 
+- border-radiu: 50% , vc irá criar um um circulo perfeitamente 
+
+- A Href fora das "" coloca TARGERT e _BLANK, para abrir nova aba fora da sua navegação
+
+- Variável -
+    :root {
+        --cor0: #codigo da dor;  assim vc já nomeia o nome da cor 
+
+- Extensão ( Window Resizer ) ela é uma extensão que ver os tamanhos ta tela pra qualquer plataforma
+
+- esqueceu de colocar o código, seleciona o texto '' >abreviação'' clica dps digita o codigo desejar 
+
+-----------------------------------------------------------------------
+https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32 - IMAGENS SE ADPTA SOZINHO
+
+- https://www.youtube.com/watch?v=WcGPSeuJDJ0&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=37 ( quebra e centralização )
+
+------------------------------------------------------------------------------
