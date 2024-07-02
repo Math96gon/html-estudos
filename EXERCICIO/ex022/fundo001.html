@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Teste de Imagem de Fundo</title>
     <style>
-        div .quadrado{
+        div.quadrado {
             display: inline-block;
             border: 2px solid black;
             border-radius: 10px;
@@ -14,6 +14,27 @@
             height: 300px;
 
         }
+        body{
+            background-image: url("imagens/wallpaper002.jpg");
+            text-align: center;
+        }
+
+        div#q1{
+            background-color: rgb(58, 65, 255);
+
+        }
+
+        div#q2{
+            background-image: linear-gradient( to bottom, rgb(1, 255, 213), rgb(12, 237, 12));
+        }
+
+        div#q3{
+            background-image: url("imagens/pattern001.png");
+
+        }
+
+
+    </style>
     </style>
 </head>
 <body>
@@ -22,13 +43,11 @@
     </div>
 
     <div class="quadrado" id="q2">
-        
-    </div>
 
+    </div>
     <div class="quadrado" id="q3">
-        
-    </div>
 
+    </div>
     
 </body>
 </html>
