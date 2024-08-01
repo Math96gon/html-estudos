@@ -6,6 +6,10 @@
     <title> imagens flexível </title>
 </head>
 <body>
-    
+    <picture>
+        <source media="( max-width: 800px )" srcset="imagens/pequeno.jpg" type="image/jpg">
+        <source media="(max-width: 1000px)" srcset="imagens/medio.jpg" type="image/jpg">
+        <img src="imagens/grande.jpg" alt="flexível">
+    </picture>
 </body>
 </html>
