@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    background-color: rgb(199, 31, 31);
+    color: aliceblue;
+    text-align: center;
+    margin: 1px 2px
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    position: sticky;
+    top: -1px;
+ 
+}
