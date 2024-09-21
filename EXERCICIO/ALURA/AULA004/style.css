@@ -56,9 +56,10 @@ body{
 
 .apresentacao__links__link{
 
-    width: 280px;
+    border: 2px solid #22D4FD;
+    width: 378px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5px 0;
