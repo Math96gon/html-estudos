@@ -1,0 +1,16 @@
+@charset "UFT-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+}
+.titulo-destaque {
+    color: #22d4fd;
+}
