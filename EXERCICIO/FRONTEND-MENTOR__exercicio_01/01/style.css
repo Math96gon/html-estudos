@@ -1,0 +1,18 @@
+:root {
+    --cor-amarelo: #F4D04E;
+    --cor-branco: #FFFFFF;
+    --cor-cinza: #6B6B6B;
+    --cor-preto: #111111;
+}
+
+body {
+    background-color: var(--cor-amarelo);
+}
+
+.conteudo{
+background-color: #FFFFFF;
+margin: 50px;
+}
+.attribution { font-size: 11px; text-align: center; }
+    
+.attribution a { color: hsl(228, 45%, 44%); }
