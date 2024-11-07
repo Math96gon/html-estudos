@@ -1,9 +1,0 @@
-FRONT - DESAFIO 
-
-- 01 - colocar um site de no REPOSITORIO dps HOSPEDAGEM NO VERCEL 
-- 02 - CRIAR o projeto SOZINHO - AULA PLUS
-
--------------------------------------------------------------
-
- SITE PRA TREINAR HTML e CSS
-- https://www.frontendmentor.io/challenges?sort=difficulty%7Casc

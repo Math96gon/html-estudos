@@ -1,0 +1,16 @@
+:root {
+    --cor-branca: #fcf1f1;
+    --cor-cinza: #535353;
+    --cor-azul: #2b9ff1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-section {
+    background-image: url(img/backgound.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
