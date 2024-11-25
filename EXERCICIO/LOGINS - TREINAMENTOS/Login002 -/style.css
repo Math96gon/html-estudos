@@ -6,6 +6,16 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppis', sans-serif;
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(background-img.jpg) no-repeat;
 }
 
 header {
@@ -14,7 +24,6 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: red;
     display: flex;
     justify-content: space-between;
     align-items: center;
