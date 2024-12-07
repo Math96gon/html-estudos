@@ -5,6 +5,11 @@
     --cor-preto: #111111;
 }
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: var(--cor-amarelo);
 }
@@ -12,7 +17,18 @@ body {
 .conteudo{
 background-color: #FFFFFF;
 margin: 50px;
+padding: 4px 10px;
+
 }
+
+.inicio {
+    background-color: var(--cor-amarelo);    border-radius: 4px;
+    display: flex;
+    padding: 4px;
+}
+
+
+
 .attribution { font-size: 11px; text-align: center; }
     
 .attribution a { color: hsl(228, 45%, 44%); }
