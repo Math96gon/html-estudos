@@ -20,11 +20,19 @@ margin: 50px;
 padding: 4px 10px;
 
 }
-
-.inicio {
-    background-color: var(--cor-amarelo);    border-radius: 4px;
+.link__learning{
+    background-color: var(--cor-amarelo); 
     display: flex;
-    padding: 4px;
+    border-radius: 4px;
+    width: 15%;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+    
+}
+.inicio {
+    padding: 1%; 
+    
 }
 
 

@@ -1,9 +1,12 @@
-@import url(styles/header.css);
+@import url("styles/header.css");
+@import url("styles/banner.css");
 
 
 :root {
     --cor-de-fundo: #d8d8d8;
     --cor-branco: #ffffff;
+    --cor-laranja: #EB9B00;
+    --azul-degrace: linear-gradient(97.54seg, #002F52 35.49%, #326589 165.37%);
 }
 
 body {
