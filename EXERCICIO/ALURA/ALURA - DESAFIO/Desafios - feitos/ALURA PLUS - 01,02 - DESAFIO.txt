@@ -8,3 +8,6 @@ https://cursos.alura.com.br/course/html-css-praticando-html-css/task/147970
 
 ALURA PLUS - 03 - DESAFIO 
 https://cursos.alura.com.br/course/html-css-praticando-html-css/task/147971
+
+ALURA MOBILE - 02 - 
+https://cursos.alura.com.br/course/html-css-responsividade-mobile-first/task/147973
