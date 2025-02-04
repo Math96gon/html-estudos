@@ -103,4 +103,14 @@
     .cabeçalho__menu-hamburguer {
         display: none;
     }
+
+    .opçoes__botao:checked~.lista-menu {
+        display: block;
+        width: auto;
+    }
+    
+    .opçoes__botao {
+        display: none;
+    } 
+
 }

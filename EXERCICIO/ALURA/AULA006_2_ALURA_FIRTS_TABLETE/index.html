@@ -23,6 +23,7 @@
             </label>
             <ul class="lista-menu">
                 <li class="lista-menu__titulo">Categorias</li>
+                
                 <li class="lista-menu__item">
                     <a href="#" class="lista-menu__link">Programação</a>
                 </li>
@@ -44,7 +45,29 @@
         </div>
 
         <ul class="opções">
+            <input type="checkbox" id="opçoes-menu" class="opçoes__botao">
+            <label for="opçoes-menu">
             <li class="opções__item"> Categorias</li>
+        </label>
+
+        <ul class="lista-menu">            
+            <li class="lista-menu__item">
+                <a href="#" class="lista-menu__link">Programação</a>
+            </li>
+            <li class="lista-menu__item">
+                <a href="#" class="lista-menu__link">Front-end</a>
+            </li>
+            <li class="lista-menu__item">
+                <a href="#" class="lista-menu__link">Infraestrutura</a>
+            </li>
+            <li class="lista-menu__item">
+                <a href="#" class="lista-menu__link">Business</a>
+            </li>
+            <li class="lista-menu__item">
+                <a href="#" class="lista-menu__link">Design & UX</a>
+            </li>
+        </ul>
+
             <li class="opções__item"> <a href="#" class="opções__link"> Favoritos</a></li>
             <li class="opções__item"> <a href="#" class="opções__link"> Minha estante</a></li>
         </ul>
@@ -113,7 +136,7 @@
     </section>
 
     <section class="carrossel">
-        <h2 class="carrossel__titulo">Novos lançamentos</h2>
+        <h2 class="carrossel__titulo">Mais vendido</h2>
         <!-- Slider main container -->
         <div class="swiper">
             <!-- Additional required wrapper -->
@@ -197,8 +220,10 @@
     </section>
 
     <section class="contato">
+        <div class="contato__descrição">
         <h2 class="contato__titulo">Fique por dentro das novidades!</h2>
         <p class="contato__texto">Atualizações de e-books, novos livros, promoções e outros.</p>
+    </div>
         <input type="email" placeholder="Cadastre seu e-mail" class="contato__email">
     </section>
 
