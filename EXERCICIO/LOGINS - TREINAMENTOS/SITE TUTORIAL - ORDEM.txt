@@ -1,7 +1,7 @@
  TUTORIAL DE LOGIN
 
 
-01: https://codehalweb.com/html-css-javascript/others/beginners/  (TUTORIAL INICIANTE )
+01: https://codehalweb.com/responsive-payment-gateway-form-design-using-html-and-css/  
 
 02: https://codehalweb.com/html-css-javascript/login-form/ ( TUTORIAL LOGIN )
 

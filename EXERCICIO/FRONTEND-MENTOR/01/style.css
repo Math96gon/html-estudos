@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+
 :root {
+    --fonte-principal: "Crimson Text," serif;
     --cor-amarelo: #F4D04E;
     --cor-branco: #FFFFFF;
     --cor-cinza: #6B6B6B;
@@ -18,6 +22,7 @@ body {
 background-color: #FFFFFF;
 margin: 50px;
 padding: 4px 10px;
+border-radius: 8px;
 
 }
 .link__learning{
@@ -31,8 +36,17 @@ padding: 4px 10px;
     
 }
 .inicio {
-    padding: 1%; 
-    
+    padding: 0,5em;
+}
+
+. {
+    align-items: center;
+}
+
+.usurario {
+    font-family: "Crimson text", serif;
+    font-weight: 700;
+    font-style: normal ;
 }
 
 
